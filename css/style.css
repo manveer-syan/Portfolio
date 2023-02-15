@@ -1,0 +1,118 @@
+body{
+    margin: 0%;
+    text-align: center;
+    font-family: 'Merriwheater' , serif;
+}
+h1{
+    margin: 0 auto 0 auto ;
+    width: 45%; 
+    font-family: 'Bangers', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Solitreo', cursive;
+    font-size: 95px;
+    color:  #66BFBF;
+    line-height: 70px;
+}
+h2{
+    font-family: 'Monsterrat',sans-serif;
+    font-size: 2.5rem;
+    color:  #66BFBF;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Monsterrat',sans-serif;
+    color: #11999E;
+}
+p {
+    line-height: 2;
+}
+.top-container{
+    background-color: rgb(238, 245, 247);
+    position: relative;
+    padding-top: 190px;
+}
+.bottom{
+    position: absolute;
+    left: 300px;
+    bottom: 455px;
+}
+ .top{
+    position: absolute;
+    right: 350px;
+    top: 80px;
+} 
+.profile{
+    margin-top: 20px;
+}
+.mountain{
+    width: 120;
+    height: 400px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.pc-work{
+    width: 35%;
+    float: left;
+    margin-right: 30px;
+}
+.anime{
+    width: 35%;
+    float: right;
+    margin-left: 30px
+}
+.intro{
+    width: 20%;
+    margin: auto;
+}
+.pfp{
+    margin-top: 50px;
+}
+hr{
+    border: dotted #9cbaba 8px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+
+}
+.btn {
+    display: inline-block;
+    margin-bottom: 1rem;    
+    background-image: linear-gradient(to bottom, #66BFBF, #2980b9);
+    -webkit-border-radius: 14;
+    -moz-border-radius: 14;
+    border-radius: 14px;
+    font-family: Arial;
+    color: #Ffffff;
+    font-size: 22px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-bottom: 55px;
+  }
+  
+  .btn:hover {
+    background-image: linear-gradient(to bottom, #66BFBF, #3498db);
+    text-decoration: none;
+
+  }
+  .bottom-container{
+    background-color: #66BFBF;
+    padding-top: 40px;
+    padding-bottom: 20px;
+  }
+  a{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #1f699b;
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+  a:hover{
+    color: #EAF6F6;
+  }
+  .copyright{
+    font-size: 0.70rem;
+    color: #Ffffff;
+  }
